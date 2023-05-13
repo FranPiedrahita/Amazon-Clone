@@ -1,0 +1,16 @@
+
+#ligth{
+background: #fff;
+}
+#dark{
+background-color: #181A20;
+color: #181A20;
+}
+.switch {
+    display: flex;
+    width: 100vw;
+    height: 30px;
+    justify-content:left;
+    align-items: left;
+  }
+  
